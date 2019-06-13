@@ -8,7 +8,7 @@
 # Importing Modules
 import os, csv
 
-# Initializig Variables
+# Initializing Variables
 month_counter = 0
 net_amount = 0
 temp_amount = 0
@@ -19,7 +19,7 @@ max_loss_amt = 0
 max_profit_month = ""
 max_loss_month = ""
 
-# Fetching the Test Data
+# Fetching the Dataset
 csvpath = os.path.join('budget_data.csv')
 
 with open(csvpath, newline='') as csvfile:
