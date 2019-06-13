@@ -1,9 +1,11 @@
-######################################################################
-# main.py : This script is used for computing various values within
-#           a given Dataset in the form of CSV document.
-#           This script displays the output on the Terminal and also
-#           creates a Text Document with the output.
-######################################################################
+#########################################################################
+# main.py     : This script is used for computing various values within
+#               a given Dataset in the form of CSV document.
+#               This script displays the output on the Terminal and also
+#               creates a Text Document with the output.
+# Input File  : election_data.csv
+# Output File : Output/Election Results.txt
+#########################################################################
 
 # Importing Modules
 import os, csv
