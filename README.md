@@ -1,7 +1,7 @@
 # Unit-3-Assignment-python-challenge
 This repository contains solution to Week 3 Python assignment
 
-PyBank
+##**PyBank:**
 	Create a Python script for analyzing the financial records of your company. 
 	You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. 
 
@@ -12,7 +12,8 @@ PyBank
 		4. The greatest increase in profits (date and amount) over the entire period.
 		5. The greatest decrease in losses (date and amount) over the entire period.
 ![alt text](https://github.com/nchullip/Unit-3-Assignment-python-challenge/blob/master/PyBank/Sample_Output.png)
-PyPoll
+
+##**PyPoll:**
 	You are given a set of poll data called election_data.csv.
 	The dataset is composed of three columns: Voter ID, County, and Candidate.
 	
